@@ -1,0 +1,8 @@
+Le tri a bulles est très lent parce qu'il fait un chiffre par un chiffe sans forcement metre dans l'ordre du premier coup.
+Il met le plus grand ou le plus petit a la fin/début mais doit revenir de nombreuses fois pour obtenir le bon ordre.
+Plus le nombre de chiffre a faire passer dedans est élever plus le nombre de passage va être élever aussi ce qui le rend encore plus long.
+
+Pour faire des petits tris il reste assez rapide (quelque ms voir seconde selon la grandeur du tableau) cependant pour de très grand calcule il risque d'etre assez lent .
+Son ordre de grandeur est donc assez petite pour ce que nous faisont en cours cela suffit mais a très grosse echelle pour des grandes 
+entreprise il n'est pas favoris.
+
